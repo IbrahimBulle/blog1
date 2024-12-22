@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "id": "9102",
+      "name": "wqsdwsa",
+      "email": "ads@gmail.com",
+      "password": "asdfgh",
+      "isAdmin": true,
+      "confirmPassword": "asdfgh"
+    },
+    {
+      "id": "bdc1",
+      "name": "abdiwali",
+      "email": "agds@gmail.com",
+      "isAdmin": false,
+      "password": "asdfgh"
+    },
+    {
+      "id": "eb55",
+      "name": "wqsdwsa",
+      "email": "adss@gmail.com",
+      "isAdmin": false,
+      "password": "asdfgh"
+    },
+    {
+      "id": "e8aa",
+      "name": "abdi",
+      "email": "abdi@gmail.com",
+      "password": "123456",
+      "admin": false
+    },
+    {
+      "id": "22fa",
+      "name": "abdi",
+      "email": "adi@gmail.com",
+      "password": "12345678",
+      "admin": false
+    },
+    {
+      "id": "4621",
+      "name": "FredrickMuyoma",
+      "email": "muyomafredrick@gmail.com",
+      "password": "12345678",
+      "admin": false
+    },
+    {
+      "id": "3bfb",
+      "name": "rodney",
+      "email": "rodneyokonda41@gmail.com",
+      "password": "wert456",
+      "admin": false
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "topic": "xiomi",
+      "post": "alot of details"
+    },
+    {
+      "id": "2",
+      "topic": "sumsang",
+      "post": "All somalis love this type of phones"
+    },
+    {
+      "id": "3",
+      "topic": "iphone",
+      "post": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, ducimus dolor. Corrupti porro quibusdam reprehenderit est asperiores explicabo nemo voluptate, aliquid pariatur ea non voluptatibus, eveniet voluptas aliquam voluptatum voluptatemLorem ipsum dolor sit amet consectetur, adipisicing elit. Cupiditate corporis excepturi officiis laborum sequi iste temporibus placeat corrupti optio unde labore incidunt fugiat modi sed aut, aperiam dolor beatae. Voluptate, commodi! Deleniti debitis, laborum perferendis quia quae alias molestias natus voluptate eius praesentium, soluta possimus pariatur ad facilis dignissimos? Dicta velit obcaecati debitis nisi. Officiis dolorum tempore consequuntur odio quam minus sint illo voluptas! Nostrum totam, ex quis, corporis nobis veniam possimus maxime libero eligendi et tempore aperiam ipsa numquam accusamus reiciendis distinctio! Odit molestias dignissimos culpa dolorem asperiores ratione iste quibusdam, ipsa tempora natus eum doloremque, eveniet cumque dolorum?Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit in commodi reiciendis illo asperiores numquam molestias eum amet quia atque quae ex nesciunt ducimus cum eligendi totam, reprehenderit hic cumque voluptatem dicta, vero at illum debitis doloribus? Modi laudantium numquam magnam a, ut dolor, nisi velit corporis vero assumenda ipsa nesciunt ducimus excepturi blanditiis facilis eius reprehenderit dolorum! Voluptates, itaque. Possimus enim eos id! Corporis, tempore voluptas doloremque a atque eaque numquam minima reprehenderit et dolorem veritatis iure rem mollitia itaque qui repudiandae maiores aliquam eum quod doloribus, porro labore voluptatibus quam? Maiores nisi distinctio hic blanditiis enim, beatae modi culpa repellendus quisquam eaque? Consequatur distinctio dicta porro illo quas qui atque explicabo similique aliquam suscipit doloremque repudiandae minus nulla quos quis provident ipsum voluptas, laboriosam voluptatem eum, eveniet ab dolor quaerat nihil! Vero voluptas consectetur assumenda cumque explicabo molestiae, doloribus fuga delectus sint animi quae quis numquam nulla praesentium dicta illo quidem voluptatem quos, eius magnam. Consequuntur quidem deserunt obcaecati laborum molestias sapiente culpa maiores pariatur nobis ab amet impedit explicabo iure corporis quos quisquam iste reprehenderit libero rem, fugiat velit. Doloribus quae incidunt saepe quos beatae voluptates sed nobis iusto reprehenderit nam veritatis quaerat provident officiis perspiciatis minus maxime laudantium, sint at dignissimos laborum totam unde ex. Sequi molestias accusantium dignissimos, nulla laboriosam consectetur. Officiis fugit impedit reprehenderit natus dolore, similique ex! Veniam, esse necessitatibus. Suscipit ad eum similique eius qui ipsam atque praesentium deserunt iusto quas veniam, quam molestias quidem aspernatur quos quasi alias, reiciendis mollitia! Unde nobis cupiditate quo iste, nihil quisquam corrupti perspiciatis exercitationem doloremque est dicta, qui deserunt iure voluptatum hic"
+    },
+    {
+      "id": "0fae",
+      "topic": "fgvhbjnkm",
+      "post": "cvg bnjmk,."
+    },
+    {
+      "id": "70ea",
+      "topic": "abdiweli",
+      "post": "i like my name"
+    },
+    {
+      "id": "fe2e",
+      "topic": "awsdfghj",
+      "post": "23wefrfdg"
+    },
+    {
+      "id": "5fd3",
+      "topic": "ahmed",
+      "post": "the failure teacher"
+    },
+    {
+      "id": "c991",
+      "topic": "The way of life",
+      "post": "Oppo is the only phone you cannot live without it. It was well designed to handle great tasks."
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "name": "Abdul",
+      "msg": "i love this type of posts being",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "name": "Hassan",
+      "msg": "i love this type of posts being",
+      "postId": 1
+    },
+    {
+      "id": "3",
+      "name": "Nasra",
+      "msg": "i love this type of posts being",
+      "postId": 3
+    },
+    {
+      "id": "7147",
+      "name": "ewtdgfhcvqwresgr",
+      "msg": "2qwesrdtfghjk",
+      "postId": "1"
+    },
+    {
+      "id": "c659",
+      "name": "     ",
+      "msg": "      ",
+      "postId": "1"
+    },
+    {
+      "id": "0b46",
+      "name": "abdiweli",
+      "msg": "my first phone was sumsung",
+      "postId": "2"
+    },
+    {
+      "id": "b45e",
+      "name": "abdiweli",
+      "msg": "ghjk",
+      "postId": "1"
+    },
+    {
+      "id": "cb2d",
+      "name": "",
+      "msg": "sddfcvbn",
+      "postId": "1"
+    },
+    {
+      "id": "ab18",
+      "name": "wertgh",
+      "msg": "dfghjk",
+      "postId": "1"
+    },
+    {
+      "id": "701e",
+      "name": "abdiweli",
+      "msg": "dfghjnm,",
+      "postId": "1"
+    },
+    {
+      "id": "9181",
+      "name": "QASDFGHBJN",
+      "msg": "qawsdfghj",
+      "postId": "1"
+    },
+    {
+      "id": "2865",
+      "name": "abdiweli",
+      "msg": "ertyguhji",
+      "postId": "1"
+    },
+    {
+      "id": "8d51",
+      "name": "fgfgs",
+      "msg": "dfcgv bnjm",
+      "postId": "1"
+    },
+    {
+      "id": "4969",
+      "name": "Abul",
+      "msg": "I strongly agree with you. Even though i might not like it because i am jealous, it is absolutely true",
+      "postId": "c991"
+    },
+    {
+      "id": "de2e",
+      "name": ";ldg;ldrfsdgd",
+      "msg": "egd.lfd,hl;,dr;fh",
+      "postId": "3"
+    }
+  ]
+}

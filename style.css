@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+    place-content: center;
+    height: 100dvh;
+    background-color: black;
+}
+.log{
+    width: 350px;
+    height: 400px;
+    background-color: rgb(84, 114, 84); 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.log h1{
+    color: #fff;
+    position: relative;
+  
+    /* background-color: blue; */
+}
+.log h1::after{
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 10px;
+    width: 80%;
+    height: 3px;
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+    
+}
+
+.input{
+   width: 80%;
+   padding: 20px 10px;
+}
+.input input{
+    display: block;
+    padding: 10px 10px ;
+    margin: 10px 0;
+    outline: none;
+    border: none;
+    width: 100%;
+     border-radius: 7px;
+}
+.input input:focus{
+outline:2px solid rgb(99, 138, 221);
+/* border: 2px solid blue; */
+}
+.btndiv{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.btndiv input{
+    border: none;
+    cursor: pointer;
+    padding: 7px 10px;
+    font-size: 18px;
+    border-radius: 2px;
+    box-shadow: 3px 5px 2px 2px rgb(14, 13, 13);
+    width: 80px;
+
+}
+.btndiv input:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 48, 48);
+}
+.login{
+    margin-left:10px ;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    padding: 7px 10px;
+    font-size: 18px;
+    border-radius: 2px;
+    box-shadow: 3px 5px 2px 2px rgb(14, 13, 13);
+    width: 80px;
+}
+.login:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(102, 48, 48);
+}
+.errors{
+    margin-top: 5px;
+    }
+    .err{
+        color: red;
+        text-shadow: 0 0 10px black;
+        margin: 5px 0;
+    }
